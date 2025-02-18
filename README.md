@@ -71,11 +71,6 @@ movie-recommender/
 ├── README.md          # This file
 └── movies.csv         # Dataset 
 ```
-## Requirements.txt
-
-- pandas>=1.3.0
-- numpy>=1.21.0
-- scikit-learn>=0.24.2
 
 ## Expected Salary
 
