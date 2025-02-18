@@ -71,17 +71,20 @@ movie-recommender/
 ├── requirements.txt    # Python dependencies
 ├── README.md          # This file
 └── movies.csv         # Dataset 
-
+```
 ## Requirements.txt
-```
-pandas>=1.3.0
-numpy>=1.21.0
-scikit-learn>=0.24.2
-```
+
+- pandas>=1.3.0
+- numpy>=1.21.0
+- scikit-learn>=0.24.2
 
 ## Expected Salary
 
- $20–30/hr
+$20–30/hr
+
+## Video Link
+
+[Demo Video](https://drive.google.com/file/d/1MVSVZ70Eoa0cPLhbxECx0xzgAQXPiiA3/view?usp=sharing)
 
 ## How It Works
 
@@ -99,4 +102,4 @@ scikit-learn>=0.24.2
    - Ranks movies by adjusted similarity scores
    - Returns top matches with detailed information
    - Includes ratings, votes, and genres
-
+```
