@@ -102,4 +102,4 @@ $20–30/hr
    - Ranks movies by adjusted similarity scores
    - Returns top matches with detailed information
    - Includes ratings, votes, and genres
-```
+
