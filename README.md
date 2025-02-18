@@ -66,7 +66,6 @@ Then enter your preferences when prompted, for example:
 
 ```
 movie-recommender/
-│
 ├── recommender.py      # Main recommendation system
 ├── requirements.txt    # Python dependencies
 ├── README.md          # This file
